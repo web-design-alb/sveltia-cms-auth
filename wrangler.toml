@@ -1,3 +1,3 @@
-# wrangler.toml
-name = 'sveltia-cms-auth'
+name = "sveltia-cms-auth1"
+main = "src/index.ts"
 compatibility_date = "2024-01-01"
